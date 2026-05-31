@@ -79,9 +79,9 @@ export default function Contact() {
       } else {
         setStatus("error");
       }
-    } catch (_err) {
-      setStatus("error");
-    }
+    } catch {
+  setStatus("error");
+}
   };
 
   return (
