@@ -56,8 +56,8 @@ export default function Contact() {
       await navigator.clipboard.writeText(value);
       setCopied(label);
       setTimeout(() => setCopied(null), 2000);
-    } catch (_err) {
-      console.error("Copy failed", _err);
+    } catch (err) {
+      console.error("Copy failed", err);
     }
   };
 
@@ -79,7 +79,7 @@ export default function Contact() {
       } else {
         setStatus("error");
       }
-    } catch (_err) {
+    } catch (err) {
       setStatus("error");
     }
   };
