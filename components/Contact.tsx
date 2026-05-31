@@ -79,9 +79,12 @@ export default function Contact() {
       } else {
         setStatus("error");
       }
-    } catch (err) {
-      setStatus("error");
-    }
+
+    
+    } catch {
+  setStatus("error");
+}
+
   };
 
   return (
