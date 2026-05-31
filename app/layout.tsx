@@ -20,11 +20,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Saugat Rauniyar" }],
   creator: "Saugat Rauniyar",
-  metadataBase: new URL("https://saugat-portfolio.vercel.app"),
+  metadataBase: new URL("https://saugatrauniyar.vercel.app"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://saugat-portfolio.vercel.app",
+    url: "https://saugatrauniyar.vercel.app",
     title: "Saugat Rauniyar – Full Stack Developer & AI Enthusiast",
     description:
       "CSE Student building practical software and intelligent digital solutions.",

@@ -32,7 +32,7 @@ Replace the `handleSubmit` function's `await new Promise(...)` with your actual 
 ### 4. Update metadata URL
 In `app/layout.tsx`, change:
 ```ts
-metadataBase: new URL("https://saugat-portfolio.vercel.app"),
+metadataBase: new URL("https://saugatrauniyar.vercel.app"),
 ```
 to your actual Vercel deployment URL.
 
