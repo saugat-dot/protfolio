@@ -1,0 +1,132 @@
+{
+  "name": "Saugat Rauniyar",
+  "title": "Full Stack Developer | AI Enthusiast | CSE Student",
+  "tagline": "Building practical software and intelligent digital solutions.",
+  "location": "Bengaluru, India",
+  "email": "saugat.rauniyar.work@gmail.com",
+  "phone": "8050812045",
+  "github": "https://github.com/saugat-dot",
+  "linkedin": "https://www.linkedin.com/in/saugat-rauniyar/",
+  "bio": "I am a Computer Science and Engineering student passionate about software development, artificial intelligence, and building practical digital products. I enjoy solving real-world problems through clean code, web technologies, and project-based learning.",
+  "about": "I am currently pursuing Computer Science and Engineering at Siddaganga Institute of Technology with strong interest in software development, AI, and modern web technologies. Alongside academics, I actively build projects and continue improving through hands-on development and continuous learning.",
+  "stats": {
+    "cgpa": "9.5",
+    "projects": "5+",
+    "certifications": "3+",
+    "technologies": "15+"
+  },
+  "education": [
+    {
+      "institution": "Siddaganga Institute of Technology",
+      "location": "Tumakuru, India",
+      "degree": "Bachelor of Engineering",
+      "branch": "Computer Science and Engineering",
+      "duration": "2025 – 2029",
+      "gpa": "9.5 CGPA",
+      "current": true
+    },
+    {
+      "institution": "Shikshadeep Higher Secondary School",
+      "location": "Biratnagar, Nepal",
+      "degree": "+2 Science",
+      "branch": null,
+      "duration": "2023 – 2025",
+      "gpa": "3.46 / 4.0",
+      "current": false
+    },
+    {
+      "institution": "DAV School",
+      "location": "Biratnagar, Nepal",
+      "degree": "Secondary Education",
+      "branch": null,
+      "duration": "Completed 2023",
+      "gpa": "3.14 / 4.0",
+      "current": false
+    }
+  ],
+  "skills": {
+    "Programming": ["C", "C++", "JavaScript", "TypeScript", "Python"],
+    "Frontend": ["HTML", "CSS", "Tailwind CSS", "React", "Next.js"],
+    "Backend Basics": ["Firebase", "PHP", "SQL"],
+    "Tools": ["Git", "GitHub", "VS Code"],
+    "AI & Tools": ["ChatGPT", "Claude", "Gemini", "Prompt Engineering"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "ShubhLabh Construction Website",
+      "description": "A real working responsive business website built for ShubhLabh Construction featuring company profile, services, project showcase, and contact section with clean modern UI.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "category": "Web",
+      "liveDemo": "https://saugat2737.github.io/shubhlabhconstruction/",
+      "repository": "https://github.com/saugat-dot",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "ATM Management System",
+      "description": "Console-based ATM system with authentication, deposits, withdrawals, balance inquiry, and file handling for persistent data storage.",
+      "tech": ["C", "File Handling"],
+      "category": "Software",
+      "liveDemo": null,
+      "repository": "https://github.com/saugat-dot",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "AI Text to Quiz Generator",
+      "description": "Hackathon project that converts study text into quiz questions automatically using prompt engineering and intelligent content processing.",
+      "tech": ["JavaScript", "AI Prompt Engineering"],
+      "category": "AI",
+      "liveDemo": null,
+      "repository": "https://github.com/saugat-dot",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Obstacle Avoiding Robot",
+      "description": "Autonomous robot that detects obstacles and changes direction using ultrasonic sensors and embedded logic control.",
+      "tech": ["Arduino", "Sensors", "Embedded Systems"],
+      "category": "Hardware",
+      "liveDemo": null,
+      "repository": "https://github.com/saugat-dot",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Student Portfolio Dashboard",
+      "description": "Modern responsive dashboard for managing academic profile, project showcase, and achievements with clean interface.",
+      "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "category": "Web",
+      "liveDemo": null,
+      "repository": "https://github.com/saugat-dot",
+      "featured": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What technologies do you know?",
+      "answer": "I work with C, C++, JavaScript, TypeScript, Python for programming. For frontend: HTML, CSS, Tailwind CSS, React, and Next.js. I also use Firebase, PHP, and SQL for backend basics."
+    },
+    {
+      "question": "What is your CGPA?",
+      "answer": "My current CGPA at Siddaganga Institute of Technology is 9.5 out of 10."
+    },
+    {
+      "question": "Where are you studying?",
+      "answer": "I am pursuing Bachelor of Engineering in Computer Science at Siddaganga Institute of Technology, Tumakuru, India (2025–2029)."
+    },
+    {
+      "question": "What projects have you built?",
+      "answer": "I have built: ShubhLabh Construction Website (live), ATM Management System in C, an AI Text-to-Quiz Generator (hackathon), an Obstacle-Avoiding Robot with Arduino, and a Student Portfolio Dashboard in Next.js."
+    },
+    {
+      "question": "How can I contact you?",
+      "answer": "You can reach me at saugat.rauniyar.work@gmail.com, call/WhatsApp at 8050812045, or connect on LinkedIn and GitHub."
+    },
+    {
+      "question": "Are you open to internships?",
+      "answer": "Yes! I am actively looking for internship opportunities in full stack development, AI/ML, or web development. Feel free to reach out."
+    }
+  ]
+}
